@@ -122,7 +122,3 @@ JARVIS PROJECT/
 ```bash
 python main.py
 ```
-
----
-
-This is a **private build**, only for my use.
