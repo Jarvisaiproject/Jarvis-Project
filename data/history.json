@@ -1,0 +1,187 @@
+[
+    {
+        "time": "2025-09-15 23:18:59",
+        "you": "clear history",
+        "jarvis": "Cleared all 36 history entries."
+    },
+    {
+        "time": "2025-09-15 23:19:04",
+        "you": "bbi",
+        "jarvis": "I\u2019m still learning. Can you rephrase?"
+    },
+    {
+        "time": "2025-09-15 23:28:18",
+        "you": "search imdb for Inception",
+        "jarvis": "Inception (2010) | IMDb rating: N/A\nDirected by: Unknown\nGenres: Unknown\nTop Cast: Unknown"
+    },
+    {
+        "time": "2025-09-15 23:28:34",
+        "you": "search imdb for Friends",
+        "jarvis": "Friends (1994) | IMDb rating: N/A\nDirected by: Unknown\nGenres: Unknown\nTop Cast: Unknown"
+    },
+    {
+        "time": "2025-09-15 23:29:27",
+        "you": "search imdb for housefull 5A",
+        "jarvis": "Housefull 5 (2025) | IMDb rating: N/A\nDirected by: Unknown\nGenres: Unknown\nTop Cast: Unknown"
+    },
+    {
+        "time": "2025-09-15 23:30:32",
+        "you": "search imdb for Inception",
+        "jarvis": "Inception (2010) | IMDb rating: N/A\nDirected by: Unknown\nGenres: Unknown\nTop Cast: Unknown"
+    },
+    {
+        "time": "2025-09-15 23:32:10",
+        "you": "search imdb for Inception",
+        "jarvis": "Inception (2010) | IMDb rating: N/A\nDirected by: Unknown\nGenres: Unknown\nTop Cast: Unknown"
+    },
+    {
+        "time": "2025-09-15 23:32:42",
+        "you": "search imdb for loki",
+        "jarvis": "Loki (2021) | IMDb rating: N/A\nDirected by: Unknown\nGenres: Unknown\nTop Cast: Unknown"
+    },
+    {
+        "time": "2025-09-15 23:33:39",
+        "you": "search imdb for loki",
+        "jarvis": "Loki (2021) | IMDb rating: N/A\nDirected by: Unknown\nGenres: Unknown\nTop Cast: Unknown"
+    },
+    {
+        "time": "2025-09-15 23:35:15",
+        "you": "search imdb for loki",
+        "jarvis": "Loki (2021) | IMDb rating: N/A\nDirected by: Unknown\nGenres: Unknown\nTop Cast: Unknown"
+    },
+    {
+        "time": "2025-09-15 23:36:57",
+        "you": "search imdb for loki",
+        "jarvis": "Loki (2021)\nSummary: The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of \u201cAvengers: Endgame.\u201d"
+    },
+    {
+        "time": "2025-09-15 23:38:50",
+        "you": "search imdb for batman",
+        "jarvis": "Batman (1989)\nSummary: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.\n\nBatman Begins (2005)\nSummary: After witnessing his parents' death, billionaire Bruce Wayne learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.\n\nThe Batman (2022)\nSummary: When a sadistic serial killer begins murdering key political figures in Gotham, the Batman is forced to investigate the city's hidden corruption and question his family's involvement."
+    },
+    {
+        "time": "2025-09-15 23:42:06",
+        "you": "check bitcoin price",
+        "jarvis": "BTC-USD is trading at $114986.07"
+    },
+    {
+        "time": "2025-09-15 23:45:14",
+        "you": "check crypto bitcoin",
+        "jarvis": "Bitcoin (BTC-USD) is trading at $114980.72 (-0.37% in 24h)"
+    },
+    {
+        "time": "2025-09-15 23:50:06",
+        "you": "check crypto bitcoin",
+        "jarvis": "Bitcoin (BTC-USD) is trading at $114981.47 (-0.37% in 24h)"
+    },
+    {
+        "time": "2025-09-15 23:50:39",
+        "you": "top cryptos",
+        "jarvis": "Top Cryptos:\nBitcoin (BTC-USD) is trading at $114981.84 (-0.37% in 24h)\nEthereum (ETH-USD) is trading at $4494.23 (-2.50% in 24h)\nDogecoin (DOGE-USD) is trading at $0.26 (-4.93% in 24h)\nLitecoin (LTC-USD) is trading at $112.80 (-2.09% in 24h)\nSolana (SOL-USD) is trading at $232.67 (-3.28% in 24h)\nCardano (ADA-USD) is trading at $0.86 (-3.49% in 24h)\nRipple (XRP-USD) is trading at $3.00 (-1.06% in 24h)"
+    },
+    {
+        "time": "2025-09-15 23:50:51",
+        "you": "check stock apple",
+        "jarvis": "Apple (AAPL) is trading at $235.82 (+0.75% in 24h)"
+    },
+    {
+        "time": "2025-09-15 23:51:02",
+        "you": "top stocks",
+        "jarvis": "Top Stocks:\nApple (AAPL) is trading at $235.82 (+0.75% in 24h)\nMicrosoft (MSFT) is trading at $513.05 (+0.62% in 24h)\nGoogle (GOOGL) is trading at $250.05 (+3.84% in 24h)\nAmazon (AMZN) is trading at $231.67 (+1.54% in 24h)\nTesla (TSLA) is trading at $395.94 (+0.00% in 24h)\nMeta (META) is trading at $764.99 (+1.24% in 24h)"
+    },
+    {
+        "time": "2025-09-15 23:54:07",
+        "you": "compare crypto bitcoin ethereum",
+        "jarvis": "Crypto Comparison:\nBitcoin (BTC-USD) is trading at $114959.73 (-0.39% in 24h)\nEthereum (ETH-USD) is trading at $4492.31 (-2.54% in 24h)"
+    },
+    {
+        "time": "2025-09-15 23:54:19",
+        "you": "compare stock apple tesla",
+        "jarvis": "Stock Comparison:\nApple (AAPL) is trading at $235.78 (+0.73% in 24h)\nTesla (TSLA) is trading at $408.65 (+3.21% in 24h)"
+    },
+    {
+        "time": "2025-09-16 00:00:12",
+        "you": "search news for Artificial Intelligence",
+        "jarvis": "Here are the latest news articles:\nPrivate Policy Spring 2026: Bringing Americana Into the\u00a0Future\nhttp://wwd.com/runway/spring-2026/new-york/private-policy/review/\n Atl\u00e9tico-MG and Santos announce line-ups with surprises for 23rd round\nhttps://onefootball.com/en/news/atletico-mg-and-santos-announce-line-ups-with-surprises-for-23rd-round-41662819\nFull transcript of \"Face the Nation with Margaret Brennan,\" Sept. 7, 2025\nhttps://www.cbsnews.com/news/face-the-nation-full-transcript-09-14-2025/\n Juventude v Flamengo line-ups confirmed, have your say\nhttps://onefootball.com/en/news/juventude-v-flamengo-line-ups-confirmed-have-your-say-41662770\n No Pulisic: here are the line-ups for Milan v Bologna\nhttps://onefootball.com/en/news/no-pulisic-here-are-the-line-ups-for-milan-v-bologna-41662768"
+    },
+    {
+        "time": "2025-09-16 00:05:03",
+        "you": "search news for Artificial Intelligence",
+        "jarvis": "Here are the latest news articles:\nPrivate Policy Spring 2026: Bringing Americana Into the\u00a0Future\nhttp://wwd.com/runway/spring-2026/new-york/private-policy/review/\n Atl\u00e9tico-MG and Santos announce line-ups with surprises for 23rd round\nhttps://onefootball.com/en/news/atletico-mg-and-santos-announce-line-ups-with-surprises-for-23rd-round-41662819\nFull transcript of \"Face the Nation with Margaret Brennan,\" Sept. 7, 2025\nhttps://www.cbsnews.com/news/face-the-nation-full-transcript-09-14-2025/\n Juventude v Flamengo line-ups confirmed, have your say\nhttps://onefootball.com/en/news/juventude-v-flamengo-line-ups-confirmed-have-your-say-41662770\n No Pulisic: here are the line-ups for Milan v Bologna\nhttps://onefootball.com/en/news/no-pulisic-here-are-the-line-ups-for-milan-v-bologna-41662768"
+    },
+    {
+        "time": "2025-09-16 00:05:15",
+        "you": "top news",
+        "jarvis": "Here are the top headlines:\nLive updates: Texas A&M breaks into the AP Top 25 poll\u2019s top 10 - AP News\nhttps://apnews.com/live/top-25-college-football-poll-9-14-2025\nUtah governor says suspect in Charlie Kirk assassination is not cooperating with authorities - CBS News\nhttps://www.cbsnews.com/news/utah-governor-cox-charlie-kirk-assassination-suspect-authorities/\nKirk\u2019s death reinvigorates Republicans\u2019 redistricting race - Politico\nhttps://www.politico.com/news/2025/09/14/charlie-kirk-indiana-redistricting-00563252\nSen. Chris Coons: The internet \"is driving extremism in our country\" - CBS News\nhttps://www.cbsnews.com/news/chris-coons-james-lankford-congress-extremism-internet/"
+    },
+    {
+        "time": "2025-09-16 00:05:40",
+        "you": "top news india",
+        "jarvis": "Here are the top headlines:\nLive updates: Texas A&M breaks into the AP Top 25 poll\u2019s top 10 - AP News\nhttps://apnews.com/live/top-25-college-football-poll-9-14-2025\nUtah governor says suspect in Charlie Kirk assassination is not cooperating with authorities - CBS News\nhttps://www.cbsnews.com/news/utah-governor-cox-charlie-kirk-assassination-suspect-authorities/\nKirk\u2019s death reinvigorates Republicans\u2019 redistricting race - Politico\nhttps://www.politico.com/news/2025/09/14/charlie-kirk-indiana-redistricting-00563252\nSen. Chris Coons: The internet \"is driving extremism in our country\" - CBS News\nhttps://www.cbsnews.com/news/chris-coons-james-lankford-congress-extremism-internet/"
+    },
+    {
+        "time": "2025-09-16 00:09:25",
+        "you": "top news",
+        "jarvis": "Here are the top general headlines from US:\nLive updates: Texas A&M breaks into the AP Top 25 poll\u2019s top 10 - AP News\nhttps://apnews.com/live/top-25-college-football-poll-9-14-2025\nUtah governor says suspect in Charlie Kirk assassination is not cooperating with authorities - CBS News\nhttps://www.cbsnews.com/news/utah-governor-cox-charlie-kirk-assassination-suspect-authorities/\nKirk\u2019s death reinvigorates Republicans\u2019 redistricting race - Politico\nhttps://www.politico.com/news/2025/09/14/charlie-kirk-indiana-redistricting-00563252\nSen. Chris Coons: The internet \"is driving extremism in our country\" - CBS News\nhttps://www.cbsnews.com/news/chris-coons-james-lankford-congress-extremism-internet/"
+    },
+    {
+        "time": "2025-09-16 00:09:34",
+        "you": "top news india",
+        "jarvis": "Here are the top general headlines from INDIA:\nError fetching top headlines: invalid country"
+    },
+    {
+        "time": "2025-09-16 00:09:47",
+        "you": "top news india technology",
+        "jarvis": "Here are the top technology headlines from INDIA:\nError fetching top headlines: invalid country"
+    },
+    {
+        "time": "2025-09-16 00:10:43",
+        "you": "top news india technology",
+        "jarvis": "Here are the top technology headlines from INDIA:\nError fetching top headlines: invalid country"
+    },
+    {
+        "time": "2025-09-16 00:18:06",
+        "you": "top news india",
+        "jarvis": "Here are the top general headlines from IN:\nNo top headlines found."
+    },
+    {
+        "time": "2025-09-16 00:18:18",
+        "you": "top news india technology",
+        "jarvis": "Here are the top technology headlines from IN:\nNo top headlines found."
+    },
+    {
+        "time": "2025-09-16 00:18:36",
+        "you": "top news us",
+        "jarvis": "Here are the top general headlines from US:\nLive updates: Texas A&M breaks into the AP Top 25 poll\u2019s top 10 - AP News\nhttps://apnews.com/live/top-25-college-football-poll-9-14-2025\nUtah governor says suspect in Charlie Kirk assassination is not cooperating with authorities - CBS News\nhttps://www.cbsnews.com/news/utah-governor-cox-charlie-kirk-assassination-suspect-authorities/\nKirk\u2019s death reinvigorates Republicans\u2019 redistricting race - Politico\nhttps://www.politico.com/news/2025/09/14/charlie-kirk-indiana-redistricting-00563252\nSen. Chris Coons: The internet \"is driving extremism in our country\" - CBS News\nhttps://www.cbsnews.com/news/chris-coons-james-lankford-congress-extremism-internet/"
+    },
+    {
+        "time": "2025-09-16 00:18:45",
+        "you": "top news uk",
+        "jarvis": "Here are the top general headlines from GB:\nNo top headlines found."
+    },
+    {
+        "time": "2025-09-16 00:18:58",
+        "you": "top news china",
+        "jarvis": "Here are the top general headlines from CN:\nNo top headlines found."
+    },
+    {
+        "time": "2025-09-16 00:19:37",
+        "you": "top news japan",
+        "jarvis": "Here are the top general headlines from JP:\nNo top headlines found."
+    },
+    {
+        "time": "2025-09-16 00:26:54",
+        "you": "top news india",
+        "jarvis": "Here are the top general headlines from INDIA:\nJD Vance hosting \"The Charlie Kirk Show\" today after Kirk's assassination - CBS News\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxPWG5EVU5IY3RTUV9kbS1vYjR1M2ZsTWJLNGdscWRJM3VkTFM1NnI0MFhuWm43M2VJUVA4RUE0a3dxRmhuWHhDdTYwaENURDI2aDEwSjdBMF9ZWXBUVE9IbXNPVjIxTXBYTF9BQi11VFhWZzVkOHl4S1JoNHhEMUI2MVgzTDB5UdIBiwFBVV95cUxPbGRzUkFHWVVJMzJ6Ymt2STVvMkRrck4wekFncGRqb3l6OEg0cG8xLTBkNWltWmFVeVp6Q3V2V0NRN2pONVhfcnQ3ejlLZFdCcUNnNVVPQV9VRjdsbXZPaGVZV2xfZGswNkNDbDlFVEp6MUJKTHFxaTV2cXVWcldySXdHY3dUWlJZekQ4?oc=5\nUS says framework for deal on future of TikTok ownership agreed with China - BBC\nhttps://news.google.com/rss/articles/CBMiWkFVX3lxTE5OWGE3WXZEdW95UTMxMjBCdWZ6VU5PZzk5TnJCTVRURENRc3JKT0JOY3BFcDRnSDIwaG9HcnlicmF2VE5NY2pPR0JtWjJBMzNMX3pSR1F3eU9zQdIBX0FVX3lxTE93YmFMU3RQTFo1UHF1TEVoTGNIcG5sVXR1bVdZSlh0UU5jeEZNeldzYW9QVF8zX1hPNkpEVV82dVFfNl9FblZfRUVDcHRaWFlNbzFqNnpKQ0IzN0xZX1FB?oc=5\nCharlie Kirk killing: What we know about suspect Tyler Robinson\u2019s motives - Al Jazeera\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxNbkZOZXIyYjgtZmgwYXJzb1dCTWJsQjJnUUVKYjNmcHlZeTZJRHNIV3JCVU90NmFEcDRhMHJBSHFJZUNNMUk0OWdhYU5sQVlwWGQ0TGJSelBvZTRIZ0NyaWdySjNoNjRDYkFiOG5rTzJ0Vk5rQUtYa1M3LXdCbmE3WVoybndEY0dMZ293NldveEM3MmtwUnFmUGNXRmM0RUtIN3pJb0dzZHFEcFA0VW11NXh30gG3AUFVX3lxTE96b2ppRERGd0pCZFAzUl94amlnR1FpX0hteXE1LU1ZME51OVlXVHdTM051Q2lqc18zVkY1alhWSXAxTFdQOHJtUUUzZWF5ckE5YnZab2NvR3B6Q0h2c2xCWldKNGtXNm93QXJVLTBURURXX2hZVnZwQXByZHpCakdxV3Rwc1dkODFpSmJKQ2xtZ1hZUVpDVHotOWFqdkxNSDJYcjQ0MWVOZGZzYmpPZ2JLbk85TkluQQ?oc=5\nFired Prosecutor Challenges Trump\u2019s Claims to Power in Lawsuit - The New York Times\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxQNm9xTm90UWJocU50cFJVRm1aRVpzQzNXc2ZxYk84NjFIcV9fMlVwSm1OMHVoeGtOZzRVMVBVODkydG1WSGZvT21uTkE2WmlqS0FJX2FJX21EQkh6aU5ZWldsVVBSSDBabGJkUWRDcVFTQmI2NjRCQUVlUkJrRS1PRW1MeTV5bUhwMmc?oc=5\nUS military officers pay surprise visit to Belarus to observe war games with Russia - Reuters\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxQa0k1VTQ0TFlFdU10UE0xbWt6aWpsd0hmd2ZzSjQtWTBhdVRuX0FiUEYxUlNESWlCRmdQalVocmFOa1NZSnkwNTRkWW5RWUlndFVOeVIzZGR6TzVYbHhQRjllZVpGbHhTRVBZWXN3LUswMy1TRDAzaTFRQzJRRzhFaE1YeGVFaGprYkV0V2tPVEViek9icVY5WkNKdVNxY0ozYXN6cWlMSFlkVzVjUTl3SGhaUHFPSGh0YXRlSXdGdGtBSEV5?oc=5"
+    },
+    {
+        "time": "2025-09-16 00:27:06",
+        "you": "top news us",
+        "jarvis": "Here are the top general headlines from US:\nJD Vance hosting \"The Charlie Kirk Show\" today after Kirk's assassination - CBS News\nhttps://news.google.com/rss/articles/CBMihgFBVV95cUxPWG5EVU5IY3RTUV9kbS1vYjR1M2ZsTWJLNGdscWRJM3VkTFM1NnI0MFhuWm43M2VJUVA4RUE0a3dxRmhuWHhDdTYwaENURDI2aDEwSjdBMF9ZWXBUVE9IbXNPVjIxTXBYTF9BQi11VFhWZzVkOHl4S1JoNHhEMUI2MVgzTDB5UdIBiwFBVV95cUxPbGRzUkFHWVVJMzJ6Ymt2STVvMkRrck4wekFncGRqb3l6OEg0cG8xLTBkNWltWmFVeVp6Q3V2V0NRN2pONVhfcnQ3ejlLZFdCcUNnNVVPQV9VRjdsbXZPaGVZV2xfZGswNkNDbDlFVEp6MUJKTHFxaTV2cXVWcldySXdHY3dUWlJZekQ4?oc=5\nUS says framework for deal on future of TikTok ownership agreed with China - BBC\nhttps://news.google.com/rss/articles/CBMiWkFVX3lxTE5OWGE3WXZEdW95UTMxMjBCdWZ6VU5PZzk5TnJCTVRURENRc3JKT0JOY3BFcDRnSDIwaG9HcnlicmF2VE5NY2pPR0JtWjJBMzNMX3pSR1F3eU9zQdIBX0FVX3lxTE93YmFMU3RQTFo1UHF1TEVoTGNIcG5sVXR1bVdZSlh0UU5jeEZNeldzYW9QVF8zX1hPNkpEVV82dVFfNl9FblZfRUVDcHRaWFlNbzFqNnpKQ0IzN0xZX1FB?oc=5\nCharlie Kirk killing: What we know about suspect Tyler Robinson\u2019s motives - Al Jazeera\nhttps://news.google.com/rss/articles/CBMisgFBVV95cUxNbkZOZXIyYjgtZmgwYXJzb1dCTWJsQjJnUUVKYjNmcHlZeTZJRHNIV3JCVU90NmFEcDRhMHJBSHFJZUNNMUk0OWdhYU5sQVlwWGQ0TGJSelBvZTRIZ0NyaWdySjNoNjRDYkFiOG5rTzJ0Vk5rQUtYa1M3LXdCbmE3WVoybndEY0dMZ293NldveEM3MmtwUnFmUGNXRmM0RUtIN3pJb0dzZHFEcFA0VW11NXh30gG3AUFVX3lxTE96b2ppRERGd0pCZFAzUl94amlnR1FpX0hteXE1LU1ZME51OVlXVHdTM051Q2lqc18zVkY1alhWSXAxTFdQOHJtUUUzZWF5ckE5YnZab2NvR3B6Q0h2c2xCWldKNGtXNm93QXJVLTBURURXX2hZVnZwQXByZHpCakdxV3Rwc1dkODFpSmJKQ2xtZ1hZUVpDVHotOWFqdkxNSDJYcjQ0MWVOZGZzYmpPZ2JLbk85TkluQQ?oc=5\nFired Prosecutor Challenges Trump\u2019s Claims to Power in Lawsuit - The New York Times\nhttps://news.google.com/rss/articles/CBMiigFBVV95cUxQNm9xTm90UWJocU50cFJVRm1aRVpzQzNXc2ZxYk84NjFIcV9fMlVwSm1OMHVoeGtOZzRVMVBVODkydG1WSGZvT21uTkE2WmlqS0FJX2FJX21EQkh6aU5ZWldsVVBSSDBabGJkUWRDcVFTQmI2NjRCQUVlUkJrRS1PRW1MeTV5bUhwMmc?oc=5\nUS military officers pay surprise visit to Belarus to observe war games with Russia - Reuters\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxQa0k1VTQ0TFlFdU10UE0xbWt6aWpsd0hmd2ZzSjQtWTBhdVRuX0FiUEYxUlNESWlCRmdQalVocmFOa1NZSnkwNTRkWW5RWUlndFVOeVIzZGR6TzVYbHhQRjllZVpGbHhTRVBZWXN3LUswMy1TRDAzaTFRQzJRRzhFaE1YeGVFaGprYkV0V2tPVEViek9icVY5WkNKdVNxY0ozYXN6cWlMSFlkVzVjUTl3SGhaUHFPSGh0YXRlSXdGdGtBSEV5?oc=5"
+    },
+    {
+        "time": "2025-09-16 00:27:34",
+        "you": "top news science",
+        "jarvis": "Here are the top science headlines from US:\nSound of a Black Hole 'Kicked' Through Space Heard in a Stunning First - ScienceAlert\nhttps://news.google.com/rss/articles/CBMingFBVV95cUxPXy1UUG9VMHpnRFJDVnpfaEp4T2VOcXJVRVNELVlLdk53QzQ4aE12Zk5aNjMtaWsyQkp1X0hQUEFyUjM1UU1zaTFsNFJRdnFMMzdfRHBxVXBLRUNrVnAzY0gwNEwyd1NYQlI1aTNNZnBpVTMyWDBScG5QcXFIXzBNT0t1T3dKcC1pQUpJUzJWdjU0LUFOai1ReS1WNkpfQQ?oc=5\nAnt queen gives birth to 2 different species - KSL.com\nhttps://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFNteUJMUmk3RVZJRnNKMjN1UzQ2RWhxQUdqSDA2Zzlhb2FMXzdaVnViMTFTcVFpU0tmM0pVWEprbjdHYXd1c3ZKbHhJNkpEWGxuZVBnaW8xU3VMS1o1MElObjNfOHBhMW15NG9lc0o3WW1hMGZqb1VUNTV5T2cybGlRTUpBVHNX?oc=5\nSpaceX launches Northrop Grumman cargo ship to International Space Station - CBS News\nhttps://news.google.com/rss/articles/CBMipwFBVV95cUxNS3pWOUJsU25SRHdlRVpESVBfSWJPUzlnNDFJN0tjTWh5UWJ6Z3MwQVY0V1FYZUF5OTdvdk1rNS11MHZwSVlpWXdCV0hvUi1sMXFHQ25qZlY3SGRETGtIaThSM1lBbnhpSGdkRG5keU5LYmxaWEtWX3JfeDJaM2o4aldXdkZmWGU4RHR3Nml6bC1tUV9heUFzeG1EZzhOcEJWRXNNa2Ztb9IBrAFBVV95cUxPbmRXNXFQeTYxRUVhelRGb0pwUW1vbnBLZUg5RjdZSEkxMGVFTXpXRzdjbzVuem14cHA1V1ZtR2pzdThTTGxkMnJtcTNqblc3b1hWalN2bnlqbEJWcE5WcDh6eTZpdEd0V2poMWNucko2YWhKRFQwU3p5SFpkU1hLUXctRHhfX0dZU2JWRXRIVGxWbXE2M3E1YjZITGZFYjE4RTU3YXlvNXFTaFUz?oc=5\nA new analysis of underwater videos shows octopuses are 'incredible multitaskers' - NBC News\nhttps://news.google.com/rss/articles/CBMixAFBVV95cUxPenNHQ2g0a3FKeTRzc2FLdmM1VjYzbHFXMmd4ZjJSeUJVYUVCSDhOQWk0aGNpNjFxX18yS3RESkl5anZtWFBjWGhYbUNJOE43UTF6RmZBcFRuX0lfOW5lbU5QcFJhcnd4WkMxVURETTZfcjlTalM2azN3OEt0TXVkVGFRWGtNcDFQUXV2Z2dGaDFXV0NRbThMc2g0YWNQZ2Z3YjdCX25xVjAteV9BZkZ0TlRrd3VpaWcxbHhUTzVzbUdldzUw0gFWQVVfeXFMTm51cWNNcDh6X21vWkpjdk9UQUx4QWw4ZlhSX0xuNzZBWWI2d1ZGYW51MV9OQUZGZ2VWN29aRmFJbE5wbUNsQXlHUmxNQloxazZrVDdkenc?oc=5\nMars Perseverance rover data suggests presence of past microbial life - Phys.org\nhttps://news.google.com/rss/articles/CBMigwFBVV95cUxOc3pUT1B0bTJZT20xT3NLSUFOb1hnYThCQ1VWQTV3d1NyUlNYbktwajJhaFJxenpHaU5kaHpnQ1BXLWtMNkRCUy10dVNhSWdMbVlyZEQ2SWx4dzM4UzFnRXl1SkN0NGRQOUYyNnpYUFVqbVNCamxKbi03N3ZQdTVQV1R6aw?oc=5"
+    }
+]
