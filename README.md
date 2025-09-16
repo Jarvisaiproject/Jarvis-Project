@@ -1,7 +1,7 @@
 # 🤖 JARVIS PROJECT
 
-Jarvis is my personal **AI assistant** built in Python.
-It helps me with **productivity, automation, research, IoT control, and fun tasks** in one system.
+Jarvis is **AI assistant** built in Python.
+It helps with **productivity, automation, research, IoT control, and fun tasks** in one system.
 
 ---
 
